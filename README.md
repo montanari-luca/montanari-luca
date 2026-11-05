@@ -23,22 +23,10 @@
 <h2 align="center">Best OS Projects</h2>
 
 <p align="center">
-  <a href="https://github.com/montanari-luca/BluePhoenix-v2"><picture>
-    <source media="(prefers-color-scheme: dark)" srcset="profile-assets/card-repo-bluephoenix-v2-dark.svg?username=montanari-luca&repo=BluePhoenix-v2" />
-    <img src="profile-assets/card-repo-bluephoenix-v2-light.svg?username=montanari-luca&repo=BluePhoenix-v2" alt="BluePhoenix-v2" />
-  </picture></a>
-  <a href="https://github.com/montanari-luca/Peppermint"><picture>
-    <source media="(prefers-color-scheme: dark)" srcset="profile-assets/card-repo-peppermint-dark.svg?username=montanari-luca&repo=Peppermint" />
-    <img src="profile-assets/card-repo-peppermint-light.svg?username=montanari-luca&repo=Peppermint" alt="Peppermint" />
-  </picture></a>
-  <a href="https://github.com/montanari-luca/Conbind"><picture>
-    <source media="(prefers-color-scheme: dark)" srcset="profile-assets/card-repo-conbind-dark.svg?username=montanari-luca&repo=Conbind" />
-    <img src="profile-assets/card-repo-conbind-light.svg?username=montanari-luca&repo=Conbind" alt="Conbind" />
-  </picture></a>
-  <a href="https://github.com/montanari-luca/Dolphin-Pod"><picture>
-    <source media="(prefers-color-scheme: dark)" srcset="profile-assets/card-repo-Dolphin-Pod-dark.svg?username=montanari-luca&repo=Dolphin-Pod" />
-    <img src="profile-assets/card-repo-dolphinpod-light.svg?username=montanari-luca&repo=Dolphin-Pod" alt="Dolphin-Pod" />
-  </picture></a>
+  <a href="https://github.com/montanari-luca/BluePhoenix-v2">BluePhoenix v2</a>
+  <a href="https://github.com/montanari-luca/Peppermint">Peppermint</a>
+  <a href="https://github.com/montanari-luca/Conbind">Conbind</a>
+  <a href="https://github.com/montanari-luca/Dolphin-Pod">Dolphin Pod</a>
 </p>
 
 <!-- studio:heading -->
