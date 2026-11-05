@@ -35,9 +35,9 @@
     <source media="(prefers-color-scheme: dark)" srcset="profile-assets/card-repo-conbind-dark.svg?username=montanari-luca&repo=Conbind" />
     <img src="profile-assets/card-repo-conbind-light.svg?username=montanari-luca&repo=Conbind" alt="Conbind" />
   </picture></a>
-  <a href="https://github.com/montanari-luca/DolphinPod"><picture>
-    <source media="(prefers-color-scheme: dark)" srcset="profile-assets/card-repo-dolphinpod-dark.svg?username=montanari-luca&repo=DolphinPod" />
-    <img src="profile-assets/card-repo-dolphinpod-light.svg?username=montanari-luca&repo=DolphinPod" alt="DolphinPod" />
+  <a href="https://github.com/montanari-luca/Dolphin-Pod"><picture>
+    <source media="(prefers-color-scheme: dark)" srcset="profile-assets/card-repo-Dolphin-Pod-dark.svg?username=montanari-luca&repo=Dolphin-Pod" />
+    <img src="profile-assets/card-repo-dolphinpod-light.svg?username=montanari-luca&repo=Dolphin-Pod" alt="Dolphin-Pod" />
   </picture></a>
 </p>
 
