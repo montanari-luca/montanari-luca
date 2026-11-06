@@ -35,8 +35,8 @@
 
 <!-- studio:paragraph -->
 
+- Building FireMoon Harness (Closed source) - Full time priority rn; Probably my biggest project
 - Maintaining Peppermint
 - Maintaining Conbind
-- Building FireMoon Harness (Closed source)
 - Building Murmur (Closed source)
 - Improving BluePhoenix
