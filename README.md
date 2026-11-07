@@ -55,5 +55,5 @@ My best work ships under **[MintFlow Technologies](https://mintflow.dev)**, the 
 ---
 
 <div align="center">
-<sub>Built with too much coffee and a worrying number of AI agents · <a href="https://mintflow.dev">mintflow.dev</a></sub>
+<sub>Currently debating between learning something new or vibe-code 10 more apps · <a href="https://mintflow.dev">mintflow.dev</a></sub>
 </div>
