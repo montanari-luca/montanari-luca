@@ -41,6 +41,8 @@ My best work ships under **[MintFlow Technologies](https://mintflow.dev)**, the 
 <sub>Conbind is an independent fork of <a href="https://github.com/Xoshbin">Xoshbin</a>'s Asyar.</sub>
 <sub>Peppermint is an independent fork of <a href="https://github.com/zen-browser/desktop">Zen Browser</a>.</sub>
 
+#### FireMoon Harness is my biggest and most ambitious project ever so far. It will probably come out around mid-end November.
+
 ## 🛠️ Stack
 
 <p>
