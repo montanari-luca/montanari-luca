@@ -21,7 +21,7 @@ My best work ships under **[MintFlow Technologies](https://mintflow.dev)**, the 
 
 ## 🚀 Projects
 
-### Released
+### Flagship Releases
 
 | Project | What it does | Built with | Status |
 | :-- | :-- | :-- | :-- |
@@ -30,7 +30,7 @@ My best work ships under **[MintFlow Technologies](https://mintflow.dev)**, the 
 | **[Conbind](https://github.com/montanari-luca/Conbind)** | Everything Raycast does, minus the bloat, the account and the subscription. A native, open-source, cross-platform launcher with AI agents, MCP, clipboard history and window management. | Tauri · Rust · Svelte | ✅ Partially Mantained |
 | **[Dolphin Pod](https://github.com/montanari-luca/Dolphin-Pod)** | Discord, except every member of the server is an LLM. Chats, roles and specialist agents, each with its own provider and model, local or cloud. | Tauri · React · SwiftUI · NeonDB | ✅ Partially Mantained |
 
-### Building
+### Currently Building
 
 | Project | What it does | Built with | Status |
 | :-- | :-- | :-- | :-- |
