@@ -38,7 +38,8 @@ My best work ships under **[MintFlow Technologies](https://mintflow.dev)**, the 
 | **FireMoon Harness** | A blazingly fast, fully featured, highly curated agent harness. | — | 🔜 Coming soon · 🔒 Proprietary |
 | **Seagull** | Debloated, faster, sleeker VS Code fork. | — | 🔜 Coming soon · 🔒 Temporarily Closed source |
 
-<sub>Conbind is an independent fork of <a href="https://github.com/Xoshbin">Xoshbin</a>'s Asyar. Credit where it's due.</sub>
+<sub>Conbind is an independent fork of <a href="https://github.com/Xoshbin">Xoshbin</a>'s Asyar.</sub>
+<sub>Peppermint is an independent fork of <a href="https://github.com/zen-browser/desktop">Zen Browser</a>.</sub>
 
 ## 🛠️ Stack
 
