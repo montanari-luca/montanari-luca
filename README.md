@@ -21,13 +21,20 @@ My best work ships under **[MintFlow Technologies](https://mintflow.dev)**, the 
 
 ## 🚀 Projects
 
+### Released
+
 | Project | What it does | Built with | Status |
 | :-- | :-- | :-- | :-- |
-| **[BluePhoenix](https://github.com/montanari-luca/BluePhoenix-v2)** | All your projects in one calm place: live git state, one-click builds and editors, to-dos, time tracking and AI helpers. Desktop + iPhone, synced to *your own* database. | Tauri · Rust · React · SwiftUI | ✅ Released |
-| **[Conbind](https://github.com/montanari-luca/Conbind)** | Everything Raycast does, minus the bloat, the account and the subscription. A native, open-source, cross-platform launcher with AI agents, MCP, clipboard history and window management. | Tauri · Rust · Svelte | ✅ Released |
-| **[Dolphin Pod](https://github.com/montanari-luca/Dolphin-Pod)** | Discord, except every member of the server is an LLM. Chats, roles and specialist agents, each with its own provider and model, local or cloud. | Tauri · React · SwiftUI · NeonDB | ✅ Released |
-| **[Murmur](https://murmur.mintflow.dev)** | Talk, and get organized notes back. Hit a shortcut, ramble, and get a clean, titled Markdown note. All the AI runs locally, because your 2 a.m. ideas are nobody's business. | Tauri · SwiftUI · local AI | 🔜 Coming soon · 🔒 Closed source |
-| **FireMoon Harness** | A blazingly fast, fully featured, highly curated agent harness. | — | 🔜 Coming soon · 🔒 Closed source |
+| **[BluePhoenix](https://github.com/montanari-luca/BluePhoenix-v2)** | All your projects in one calm place: live git state, one-click builds and editors, to-dos, time tracking and AI helpers. Desktop + iPhone, synced to *your own* database. | Tauri · Rust · React · SwiftUI | ✅ Mantained |
+| **[Peppermint](https://github.com/montanari-luca/Peppermint)** | A performant, productive Firefox-based browser. Built for focus, convenience & speed. | C++ · JS | ✅ Mantained |
+| **[Conbind](https://github.com/montanari-luca/Conbind)** | Everything Raycast does, minus the bloat, the account and the subscription. A native, open-source, cross-platform launcher with AI agents, MCP, clipboard history and window management. | Tauri · Rust · Svelte | ✅ Partially Mantained |
+| **[Dolphin Pod](https://github.com/montanari-luca/Dolphin-Pod)** | Discord, except every member of the server is an LLM. Chats, roles and specialist agents, each with its own provider and model, local or cloud. | Tauri · React · SwiftUI · NeonDB | ✅ Partially Mantained |
+
+### Building
+
+| **[Murmur](https://murmur.mintflow.dev)** | Talk, and get organized notes back. Hit a shortcut, ramble, and get a clean, titled Markdown note. All the AI runs locally, because your 2 a.m. ideas are nobody's business. | Tauri · SwiftUI · local AI | 🔜 Coming soon · 🔒 Temporarily Closed source |
+| **FireMoon Harness** | A blazingly fast, fully featured, highly curated agent harness. | — | 🔜 Coming soon · 🔒 Proprietary |
+| **Seagull** | Debloated, faster, sleeker VS Code fork. | — | 🔜 Coming soon · 🔒 Temporarily Closed source |
 
 <sub>Conbind is an independent fork of <a href="https://github.com/Xoshbin">Xoshbin</a>'s Asyar. Credit where it's due.</sub>
 
