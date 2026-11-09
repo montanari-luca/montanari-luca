@@ -35,8 +35,8 @@ My best work ships under **[MintFlow Technologies](https://mintflow.dev)**, the 
 | Project | What it does | Built with | Status |
 | :-- | :-- | :-- | :-- |
 | **[Murmur](https://murmur.mintflow.dev)** | Talk, and get organized notes back. Hit a shortcut, ramble, and get a clean, titled Markdown note. All the AI runs locally, because your 2 a.m. ideas are nobody's business. | Tauri · SwiftUI · local AI | 🔜 Coming soon · 🔒 Temporarily Closed source |
-| **FireMoon Harness** | A blazingly fast, fully featured, highly curated agent harness. | — | 🔜 Coming soon · 🔒 Proprietary |
-| **Seagull** | Debloated, faster, sleeker VS Code fork. | — | 🔜 Coming soon · 🔒 Temporarily Closed source |
+| **FireMoon Harness** | A blazingly fast, fully featured, highly curated agent harness. | Tauri · Rust · React · SwiftUI | 🔜 Coming soon · 🔒 Proprietary |
+| **Seagull** | Debloated, faster, sleeker VS Code fork. | Electron · TS | 🔜 Coming soon · 🔒 Temporarily Closed source |
 
 <sub>Conbind is an independent fork of <a href="https://github.com/Xoshbin">Xoshbin</a>'s Asyar.</sub>
 <sub>Peppermint is an independent fork of <a href="https://github.com/zen-browser/desktop">Zen Browser</a>.</sub>
