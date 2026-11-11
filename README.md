@@ -17,7 +17,7 @@ I make desktop and mobile apps that try to be fast, local-first, and nice to loo
 
 My best work ships under **[MintFlow Technologies](https://mintflow.dev)**, the brand that keeps my projects in one place so they don't look like a pile of side projects. (They are a pile of side projects. They just have a logo now.)
 
-> 🧠 **Currently:** debating whether to learn something new or vibe-code 10 more apps.
+> 🧠 **Currently:** polishing FireMoon Harness.
 
 ## 🚀 Projects
 
