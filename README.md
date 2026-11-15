@@ -41,15 +41,6 @@ My best work ships under **[MintFlow Technologies](https://mintflow.dev)**, the 
 <sub>Conbind is an independent fork of <a href="https://github.com/Xoshbin">Xoshbin</a>'s Asyar.</sub>
 <sub>Peppermint is an independent fork of <a href="https://github.com/zen-browser/desktop">Zen Browser</a>.</sub>
 
-### Future releases estimates
-
-| Project   | Product Release       | Repo Release      |
-|---------|-----------------------|-------------------|
-| FMH       | Mid-End November 2026 | -                 | 
-| Seagull   | Mid November 2026     | Mid November 2026 | 
-| Murmur    | December 2026         | -                 | 
-| Peppermint| December 2026         | Already open      | 
-
 ### Current priorities - Might change if you [ask me](luca@mintflow.dev)
 
 | Project          | Priority |
