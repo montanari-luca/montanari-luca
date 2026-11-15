@@ -46,9 +46,9 @@ My best work ships under **[MintFlow Technologies](https://mintflow.dev)**, the 
 | Project          | Priority |
 |------------------|----------|
 | FMH              | Max      |
-| Seagull          | xHigh    |
 | BluePhoenix v2.3 | Med      |
-| Peppermint v4    | Low      |
+| Peppermint v4    | Med      |
+| Seagull          | Low      |
 | Murmur           | Low      |
 
 
